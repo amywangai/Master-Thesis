@@ -1,2 +1,2 @@
-# Master-Thesis
+# Master-Thesis-Project
 long-tail classification
